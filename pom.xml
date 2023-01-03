@@ -52,7 +52,7 @@
                 <version>1.4.10</version>
                 <configuration>
                     <username>ritikrastogi</username>
-                    <password>Ritikrast2000@@</password>
+                    <password>Ritikrast2000</password>
                     <repository>ritikrastogi/${project.build.finalName}.jar</repository>
                     <tag>latest</tag>
                     <buildArgs>
