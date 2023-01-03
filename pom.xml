@@ -51,9 +51,9 @@
                 <artifactId>dockerfile-maven-plugin</artifactId>
                 <version>1.4.10</version>
                 <configuration>
-                    <username>rashmirocks</username>
-                    <password>Qwerty9@@</password>
-                    <repository>rashmirocks/${project.build.finalName}.jar</repository>
+                    <username>ritikrastogi</username>
+                    <password>Ritikrast2000@@</password>
+                    <repository>ritikrastogi/${project.build.finalName}.jar</repository>
                     <tag>latest</tag>
                     <buildArgs>
                         <JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
@@ -71,7 +71,7 @@
                 </executions>
             </plugin>
 		</plugins>
-		<finalName>pricemicroservice</finalName>
+		<finalName>priceserviceAPI</finalName>
 	</build>
 
 </project>
