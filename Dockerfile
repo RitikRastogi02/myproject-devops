@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 8090
-ADD target/priceserviceAPI.jar priceserviceAPI.jar
-ENTRYPOINT ["java","-jar","/priceserviceAPI.jar"]
+ADD target/price-service.jar price-service.jar
+ENTRYPOINT ["java","-jar","/price-service.jar"]

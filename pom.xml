@@ -71,7 +71,7 @@
                 </executions>
             </plugin>
 		</plugins>
-		<finalName>priceserviceAPI</finalName>
+		<finalName>price-service</finalName>
 	</build>
 
 </project>
